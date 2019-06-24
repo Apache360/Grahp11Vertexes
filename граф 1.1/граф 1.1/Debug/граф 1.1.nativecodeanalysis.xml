@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio projects\граф 1.1\граф 1.1\граф 1.1</FILEPATH>
+      <FILENAME>граф 1.1.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>func_arr_set_swap_show</FUNCTION>
+    <DECORATED>?func_arr_set_swap_show@@YAXXZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio projects\граф 1.1\граф 1.1\граф 1.1</FILEPATH>
+      <FILENAME>граф 1.1.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>func_arr_set_swap_show</FUNCTION>
+    <DECORATED>?func_arr_set_swap_show@@YAXXZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio projects\граф 1.1\граф 1.1\граф 1.1</FILEPATH>
+      <FILENAME>граф 1.1.cpp</FILENAME>
+      <LINE>420</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>func_arr_set_swap_show</FUNCTION>
+    <DECORATED>?func_arr_set_swap_show@@YAXXZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\visual studio projects\граф 1.1\граф 1.1\граф 1.1</FILEPATH>
+      <FILENAME>граф 1.1.cpp</FILENAME>
+      <LINE>421</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>func_arr_set_swap_show</FUNCTION>
+    <DECORATED>?func_arr_set_swap_show@@YAXXZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
